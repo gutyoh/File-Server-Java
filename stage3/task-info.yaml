@@ -1,0 +1,4 @@
+type: edu
+files:
+- name: test/FileServerTest.java
+  visible: false

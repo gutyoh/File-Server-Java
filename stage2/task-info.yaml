@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: test/FileServerTest.java
+  visible: false
+- name: client.go
+  visible: true
+- name: server.go
+  visible: true
